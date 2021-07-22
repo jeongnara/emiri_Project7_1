@@ -12,6 +12,7 @@
     <item
         android:title="@string/item_btn_change"></item>
         <menu>
+
             <item
                 android:id="@+id/item_rotate"
                 android:title="@string/itme_item_rotate"/>
